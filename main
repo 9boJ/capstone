@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 >
+            Jatin Bhagat
+        </h1>
+        <table>
+            <tr>
+                <th><a href="about-me.html">About</a></th>
+                <th><a href="contacts.html">Contacts</a></th>
+            </tr>
+            
+        </table>
+        <br>
+        
+    </body>
+</html>
