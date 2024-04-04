@@ -1,6 +1,7 @@
 body{
-    background-color: antiquewhite;
-    color: black;
+    background-color: black;
+    width: 100%;
+    height: 100px
 }
 #header{
     background-color: #0000;
