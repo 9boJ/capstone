@@ -1,6 +1,17 @@
-#header{}
-#mine{}
-#footer{}
+body{
+    background-color: antiquewhite;
+}
+#header{
+    background-color: #0000;
+    width:100%;
+}
+#mine{
+    background-color: aqua;
+}
+#footer{
+    background-color: blue;
+}
+
 .nav-bar{
     color: red;
     float: left;
