@@ -1,12 +1,12 @@
 body{
     background-color: black;
+}
+#header{
+    background-color: black;
     width: 100%;
     height: 100px
 }
-#header{
-    background-color: #0000;
-    width:100%;
-}
+
 #mine{
     background-color: aqua;
 }
