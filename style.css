@@ -1,7 +1,7 @@
 #header{}
 #mine{}
 #footer{}
-#nav-bar{
+.nav-bar{
     color: #ffff;
     float: left;
     font-family: Helvetica;
