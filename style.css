@@ -1,28 +1,30 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: #e90000;
+    margin:0px
 }
 #header{
     background-color: black;
     width: 100%;
-    height: 100px
+    height: 60px;
 }
 
 #mine{
     background-color: aqua;
-    width: 100%;
-    height: 100%
 }
 #footer{
     background-color: blue;
-    width: 100%;
-    height: 100px
 }
 
 .nav-bar{
     color: white;
     float: left;
     font-family: Helvetica;
-    font-size: 20px;
-    padding:8px;
+    padding:6px;
     text-decoration: none;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-bottom: 4px;
+    border-style:solid;
+    margin:2px;
 }
