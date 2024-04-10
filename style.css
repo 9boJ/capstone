@@ -28,3 +28,24 @@ body{
     border-style:solid;
     margin:2px;
 }
+/*
+.nav-bar{
+    color: white;
+    float: right;
+    font-family: Helvetica;
+    padding:6px;
+    text-decoration: none;
+    margin:2px;
+    display:flex;
+    line-height:0px;
+    transition:1.5s;
+}
+.nav-bar:hover{
+    background-color:#666362;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-bottom: 4px;
+    border-style:solid;
+}
+*/
