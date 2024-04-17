@@ -9,7 +9,7 @@ Capstone is were Students will create a project displaying what they have learne
 2. How have you changed (In personality, Maturity, Insight, etc.)? What valuse are most important to you? 
     - 
 3. What character traits/qualities do you have that have helped you become a better student and person? How would people who konw you best describe you? 
-    - 
+    - Some of the character traits I love about self are my determination and my punctuality. I am alway (determined) to flnish task or my re 
 4. what is something you are most proud of?
     - 
 5. what are you areas of strength and areas of improvement?
