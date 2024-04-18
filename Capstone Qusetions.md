@@ -5,7 +5,8 @@ Capstone is were Students will create a project displaying what they have learne
 
 ## Personal Learning 
 1. What challenges have you overcome? (e.g. life struggles, personal conflict, etc.)
-    - I have overcome multiple but the most stands out to me is moving high school, make new friends, learning in different environment and beeing out of my comfort zone. I fonde hard to make new friends, I did not fit in like how I used too. ------
+    - I have overcome multiple challenges but the most stands out to me is moving high school, make new friends, learning in different environment and beeing out of my comfort zone. I fonde hard to make new friends, I did not fit in like how I used too at my old school.
+    My first day at css wnat someting like this, I got my lunch out and I began to text my friend, but their lunch had not started yet, I looked around to see myself with an empty table. I ignored all the thought and played games on my phone
 2. How have you changed (In personality, Maturity, Insight, etc.)? What valuse are most important to you? 
     - 
 3. What character traits/qualities do you have that have helped you become a better student and person? How would people who konw you best describe you? 
