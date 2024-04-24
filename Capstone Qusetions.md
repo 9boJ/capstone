@@ -8,13 +8,13 @@ Capstone is were Students will create a project displaying what they have learne
     - I have overcome multiple challenges but the most stands out to me is moving high school, make new friends, learning in different environment and beeing out of my comfort zone. I fonde hard to make new friends, I did not fit in like how I used too at my old school.
     My first day at css wnat someting like this, I got my lunch out and I began to text my friend, but their lunch had not started yet, I looked around to see myself with an empty table. I ignored all the thought and played games on my phone.
 2. How have you changed (In personality, Maturity, Insight, etc.)? What valuse are most important to you? 
-    - I have visited my self c
+    - I have witnessed myself have changes in my personality and my maturity. My personality used to be all about how I can become popular? I cared a lot about how I looked and how people saw me. Over the years I have become less self-centered and forces more on self-important and care less about public opinion. I also have found quality friends compared to my past self who looked for quantity in friends. I have become more self-aware and learn to accept myself also I have moved away from trying to fit into society as someone else.  
 3. What character traits/qualities do you have that have helped you become a better student and person? How would people who konw you best describe you? 
-    - Some of the character traits I love about self are my determination and my punctuality. I am alway (determined) to flnish task or my re 
+    - Some of the character traits I love about self are my determination and my punctuality. I am always determined to finish the task at hand or taking responsibility for my actions.------ 
 4. what is something you are most proud of?
-    - 
+    - My ability to work in a group or a team.---
 5. what are you areas of strength and areas of improvement?
-    - 
+    - My areas of strength are that I am a fast learner. My time management skill can be beneficial to me, allowing me to finish my task in shorter period of time. 
 
 ## Academic Learning 
 1. How would you describr school culture? What would you change about the school culture?
