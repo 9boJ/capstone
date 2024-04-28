@@ -42,4 +42,4 @@ Capstone is were Students will create a project displaying what they have learne
 7. What does your first year after graduation look like?
     - I plan to work full time in summer and part time after. My classes start in august and end in june of next year.
 8. Do you have a five year post-gradustion plan?
-    - 
+    - My four of my life well look the same as my first year after graduation, working, helping my parents. The fiveth year well about find a full time job in tech or help my parents tack thir business to another lever. 

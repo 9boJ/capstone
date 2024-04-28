@@ -16,7 +16,8 @@ body{
 }
 
 #mine{
-
+  margin: auto;
+  background-color: black;
 }
 img{
     width:200px;
