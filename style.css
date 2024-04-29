@@ -17,15 +17,29 @@ body{
 
 #mine{
   margin: auto;
-  background-color: black;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 75%;
+  text-align: center;
+  image-rendering: auto;
+  image-resolution: auto;
+  
 }
 img{
-    width:200px;
-    height:300px;
+  display: block;
+  width: 100%;
+  height: auto;
 }
 .home-img{
   position: relative;
-  width: 50%;
+  width:50%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .home-img-text {
   position: absolute;
@@ -37,7 +51,7 @@ img{
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #a9a9a988;
 }
 .text {
     color: white;
@@ -52,6 +66,10 @@ img{
   }
 .home-img:hover .home-img-text {
   opacity: 1;
+}
+.about-text{
+  background-color: #ffffffaf;
+  padding: 10px;
 }
 #footer{
     background-color: blue;
@@ -75,4 +93,7 @@ img{
     border-right:0px;
     border-bottom: 4px;
     border-style:solid;
+}
+.nav-bar-active{
+  background-color:#3836358c;
 }
