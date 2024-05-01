@@ -18,7 +18,7 @@ Capstone is were Students will create a project displaying what they have learne
 
 ## Academic Learning 
 1. How would you describr school culture? What would you change about the school culture?
-    - 
+    - School culture and its environment are unique to location, I had the pleasures to experience 2 very different school cultures. It would relly hard to descrive the school culture in words but the one thing I would say about it would, School is set of directions that shape you into a person. The idea of changing school culture does not seat right with me because the school culture we know today is built upon everbody's idea and changing it would remove the idea of others. 
 2. what courses have helped you with your future goals most?
     - Computer Programming and Calculus has hleped lots with making this website, and well help in my become a software engineer.  computer programming helped me make this website and many other projects like a games and calculators and I am still lot more learne.  
 3. Which teacher(s) has/have helped you become a better student? Explain what they would say about you and why.
